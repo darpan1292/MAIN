@@ -42,7 +42,7 @@ import android.widget.Toast;
 public class MainActivity extends Activity implements OnClickListener {
 	private Button mTakePhoto;
 	private ImageView mImageView;
-	private static final String TAG = "upload";
+	private static final String TAG = "upload_pic_mainActivity";
 	 public String locationAddressFinal = null;
 
 	@Override
